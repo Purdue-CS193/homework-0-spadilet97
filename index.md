@@ -35,3 +35,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Srujan's First CS193 Homework
+
+- The instructors in my class have a great sense of humor and are very good at communicating with students.
+- This class seems to be relatively less stressful than all the other classes that I'm taking.
+- I'm looking forward to learning about the various tools that can be used to code.
+- This class is a great addition to CS180 as it covers a few basic things that arent covered in that class.
+- As a coder who has more experience in Python rather than Java, I can definitely utilize this class to improve my skill.
+
